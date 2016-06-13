@@ -1,0 +1,14 @@
+{
+  "name": "range",
+  "version": "0.1.0",
+  "description": "Generates a range of numbers",
+  "main": "range.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Leonard Schuetz",
+  "license": "MIT",
+  "devDependencies": {
+    "jest-cli": "^12.1.1"
+  }
+}
