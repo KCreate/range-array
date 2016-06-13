@@ -1,5 +1,5 @@
 {
-  "name": "range",
+  "name": "range-array",
   "version": "0.1.0",
   "description": "Generates a range of numbers",
   "main": "range.js",
