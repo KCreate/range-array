@@ -1,8 +1,8 @@
 {
   "name": "range-array",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Generates a range of numbers",
-  "main": "range.js",
+  "main": "lib/range.js",
   "scripts": {
     "test": "jest"
   },
