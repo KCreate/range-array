@@ -4,7 +4,9 @@
 [![npm](https://img.shields.io/npm/v/range-array.svg?maxAge=2592000?style=flat-square)](https://www.npmjs.com/package/range-array)
 [![npm](https://img.shields.io/npm/l/range-array.svg?maxAge=2592000?style=flat-square)](https://www.npmjs.com/package/range-array)
 
-Easily generate a range.
+Easily generate a range from a set of two numbers. Tries to approximate the [range function from python](http://pythoncentral.io/pythons-range-function-explained/).
+
+Automatically determines wether the step value should be interpreted as a negative or a positive number.
 
 # Installation
 
