@@ -6,6 +6,10 @@
   "scripts": {
     "test": "jest"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KCreate/range-array.git"
+  },
   "author": "Leonard Schuetz",
   "license": "MIT",
   "devDependencies": {
